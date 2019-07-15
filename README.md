@@ -1,0 +1,4 @@
+# Docker
+
+docker inspect 1878f25e8bd1
+tailf -n 10 /var/lib/docker/containers/1878f25e8bd1d61c99c72444de10854d5a46b2c4db2c5632e49cf61404d8ab56/1878f25e8bd1d61c99c72444de10854d5a46b2c4db2c5632e49cf61404d8ab56-json.log
